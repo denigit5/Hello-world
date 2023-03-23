@@ -11,7 +11,7 @@
 
 # 📖 [Hello Microverse] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
+>first built microvrse learning project
 
 **[Hello Microverse]** is a...
 
@@ -19,10 +19,8 @@
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
-
 <details>
-  <summary>Client</summary>
+  <summary>Html</summary>
   <ul>
     <li><a href="https://reactjs.org/">React.js</a></li>
   </ul>
