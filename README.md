@@ -1,32 +1,6 @@
 <a name="readme-top"></a>
 
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-OPTIONAL SECTIONS:
-- FAQ
-
-After you're finished please remove all the comments and instructions!
--->
-
 <div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
   <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
@@ -34,31 +8,6 @@ After you're finished please remove all the comments and instructions!
 
 </div>
 
-<!-- TABLE OF CONTENTS -->
-
-# 📗 Table of Contents
-
-- [📖 About the Project](#about-project)
-  - [🛠 Built With](#built-with)
-    - [Tech Stack](#tech-stack)
-    - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
-- [💻 Getting Started](#getting-started)
-  - [Setup](#setup)
-  - [Prerequisites](#prerequisites)
-  - [Install](#install)
-  - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
-- [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
-- [🤝 Contributing](#contributing)
-- [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
-- [📝 License](#license)
-
-<!-- First project -->
 
 # 📖 [Hello Microverse] <a name="about-project"></a>
 
@@ -139,39 +88,17 @@ Example command:
 
 Clone this repository to your desired folder:
 
-<!--
-Example commands:
-
-```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
-```
---->
 
 ### Install
 
 Install this project with:
 
-<!--
-Example command:
-
-```sh
-  cd my-project
-  gem install
-```
---->
 
 ### Usage
 
 To run the project, execute the following command:
 
-<!--
-Example command:
 
-```sh
-  rails server
-```
---->
 
 ### Run tests
 
@@ -207,15 +134,15 @@ Example:
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
+- GitHub: [@denigit5](https://github.com/githubhandle)
+- Twitter: [@denyse_mukiza](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 👤 **Author2**
 
 - GitHub: [@githubhandle](https://github.com/githubhandle)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- LinkedIn: [Denyse Mukiza](https://linkedin.com/in/linkedinhandle)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -267,13 +194,13 @@ I would like to thank...
 
 > Add at least 2 questions new developers would ask when they decide to use your project.
 
-- **[Question_1]**
+- **[What was the motive behind building your repository]**
 
-  - [Answer_1]
+  - [The motive i to develop my skills in at least 2 areas: 1. My ability to follow instructions 2. My ability to come up with well organised and oriented repository]
 
-- **[Question_2]**
+- **[How does your repository impact those who come across it]**
 
-  - [Answer_2]
+  - [It should be a chance for corrections or a learning opportunity where you a contributor can share their thought]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
